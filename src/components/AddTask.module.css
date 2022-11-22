@@ -1,0 +1,63 @@
+.addTask {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.input {
+  flex: 1;
+}
+
+input {
+  background-color: var(--gray-500);
+  border: 1px solid var(--gray-700);
+  padding: 1rem;
+  border-radius: 8px;
+  width: 100%;
+  color: var(--gray-100);
+  line-height: 1.4;
+  letter-spacing: 0.005rem;
+}
+
+input:focus { 
+  outline: none !important;
+  border: 1px solid var(--purple-600);
+}
+
+input::placeholder { 
+  color: var(--gray-300);
+}
+
+
+button {
+  background-color: var(--blue-600);
+  border-radius: 8px;
+  display: block;
+  color: var(--gray-100);
+  padding: 1rem;
+
+
+  text-decoration: none;
+  font-style: normal;
+  line-height: 1.4;
+  gap: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: inherit;
+  font-weight: bold;
+  line-height: 1.4;
+  font-size: 0.875rem;
+
+  border: none;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+
+
+button:hover {
+  background-color: var(--blue-500);
+}
+
+
+

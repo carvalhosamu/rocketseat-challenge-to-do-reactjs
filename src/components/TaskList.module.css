@@ -1,0 +1,28 @@
+.taskCount {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+.textBlue {
+  color: var(--blue-500);
+}
+
+.textPurple {
+  color: var(--purple-600);
+}
+
+.textCounter {
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+.counter {
+  background-color: var(--gray-400);
+  padding: 0.125rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--gray-200);
+  margin-left: 8px;
+}
