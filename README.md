@@ -12,5 +12,5 @@ Create a simple to do list of tasks using react.
 * uuid
 * phosphor-ract
 
-## Figma design 
+## Design 
 [Figma Design](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate?node-id=0%3A1)
