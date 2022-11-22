@@ -1,7 +1,7 @@
-# rocketseat-challenge-to-do-reactjs
-Create a simple to do list using react.
+# Chalenge Rocketseat TO DO List
+Create a simple to do list of tasks using react.
 
-## learned concepts
+## Learned Concepts
 * react basis
 * immutability
 * components 
