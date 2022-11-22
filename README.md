@@ -8,7 +8,7 @@ Create a simple to do list of tasks using react.
 * props
 * states
 
-## used Libraries
+## Used Libraries
 * uuid
 * phosphor-ract
 
